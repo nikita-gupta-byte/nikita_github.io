@@ -1,0 +1,71 @@
+#image{
+float:left;
+padding: 0px 20px 20px 20px;
+}
+#identity{
+overflow:auto;
+}
+p{
+color:white;
+}
+#background-image{
+background-image :url("img/bat_cover.jpg");
+height: 350px;
+padding-top: 50px;
+color: #fff;
+margin-top: 25px;
+}
+#content {
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 450px;
+padding:30px 20px;
+margin-top:50px;
+color: rgba(255, 255, 255, 1.0);
+}
+input {
+padding: 14px 70px;
+font-size: 15px;
+margin-bottom: 30px;
+}
+#subscribe {
+border: none;
+background-color: #26211f;
+color: white;
+font-size: 16px;
+margin: 4px -4px;
+padding: 16px 40px;
+}
+.container {
+padding: 20px;
+margin: auto;
+width: 100%;
+overflow-x: hidden;
+}
+@media(min-width: 320px) {   .container {
+width: 320px; } }
+@media(min-width: 481px) {   .container {
+width: 481px; } }
+@media(min-width: 641px) {   .container {
+width: 641px; } }
+@media(min-width: 961px) {   .container {
+width: 961px; } }
+@media(min-width: 1000px) {   .container {
+width: 1000px; } }
+@media (max-width:481px) {
+.box{
+width:100%;
+}
+#image { width:100%; }
+h2{ text-align: center; }
+}
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 May, 2020, 8:32:49 PM
+    Author     : nikita gupta
+*/
+
