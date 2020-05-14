@@ -1,0 +1,42 @@
+.thumbnail {
+display: inline-block;
+height: auto;
+padding: 4px;
+margin-bottom: 20px;
+background-color: #fff;
+border: 1px solid #a4a4a4;
+text-align: center;
+color: #666;
+margin: 50px;
+}
+ul{
+    padding-bottom: 20px;
+}
+li{
+    list-style-type: none;
+font-size: 25px;
+}
+li a {
+    display: block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+}
+.logo{
+    float: left;
+    height: 50px;
+}
+#header{
+    padding: 5px 0px;
+    border-bottom: 1px solid;
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 May, 2020, 10:55:13 PM
+    Author     : nikita gupta
+*/
+
