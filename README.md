@@ -31,11 +31,6 @@ batman first appeared in Dc comics in year 1938 and soon became popular</p>
 <div>
 <center>
 <h4> Subscribe to our newsletter </h4>
-</center>
-</div>
-<div>
-<center>
-<h4> Subscribe to our newsletter </h4>
 <input type="text">
 <input type="submit" value="Subscribe" id="subscribe">
 </center>
